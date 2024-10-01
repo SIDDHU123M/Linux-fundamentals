@@ -1,7 +1,7 @@
 ### **Linux Fundamentals - In-depth Course Structure**
 
 ### **Index:**
-1. [Introduction to Linux](#introduction-to-linux)
+1. [Introduction to Linux](#Introduction-to-Linux)
 2. [File System Navigation](#file-system-navigation)
 3. [File and Directory Management](#file-and-directory-management)
 4. [File Permissions and Ownership](#file-permissions-and-ownership)
@@ -11,9 +11,6 @@
 8. [Package Management](#package-management)
 9. [Useful Resources](#useful-resources)
 
----
-
-This index will allow you to quickly navigate to each section of the course. Click on any of the links to jump to that specific topic.
 ---
 
 ### **1. Introduction to Linux**
