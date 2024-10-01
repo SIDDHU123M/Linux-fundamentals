@@ -1,15 +1,15 @@
 ### **Linux Fundamentals - In-depth Course Structure**
 
 ### **Index:**
-1. [Introduction to Linux](#Introduction-to-Linux)
-2. [File System Navigation](#file-system-navigation)
-3. [File and Directory Management](#file-and-directory-management)
-4. [File Permissions and Ownership](#file-permissions-and-ownership)
-5. [Process Management](#process-management)
-6. [Networking Basics](#networking-basics)
-7. [Shell Scripting](#shell-scripting)
-8. [Package Management](#package-management)
-9. [Useful Resources](#useful-resources)
+1. [Introduction to Linux](#1-introduction-to-linux)
+2. [File System Navigation](#2-file-system-navigation)
+3. [File and Directory Management](#3-file-and-directory-management)
+4. [File Permissions and Ownership](#4-file-permissions-and-ownership)
+5. [Process Management](#5-process-management)
+6. [Networking Basics](#6-networking-basics)
+7. [Shell Scripting](#7-shell-scripting)
+8. [Package Management](#8-package-management)
+9. [Useful Resources](#9-useful-resources)
 
 ---
 
